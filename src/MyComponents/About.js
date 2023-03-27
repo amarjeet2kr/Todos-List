@@ -1,15 +1,16 @@
-import React from 'react'
+import React from "react";
 
 const About = () => {
   return (
-    <div>
-      This is about us page
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-         Nam ipsa repellendus, corrupti inventore est, incidunt fugit
-          consequatur explicabo numquam quo enim temporibus eveniet 
-          perferendis alias saepe ea officiis expedita totam?</p>
+    <div className="container">
+      <h3 className="text-center">About Todos List</h3>
+      <p>
+        Todos List app is a web-based application built with React that allows
+        users to create and manage a list of tasks. The app uses LocalStorage to
+        store the data locally in the user's browser.
+      </p>
     </div>
-  )
-}
+  );
+};
 
-export default About
+export default About;
