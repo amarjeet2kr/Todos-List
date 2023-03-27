@@ -1,3 +1,5 @@
+Todos List app is a web-based application built with React that allows users to create and manage a list of tasks. The app uses LocalStorage to store the data locally in the user's browser.
+
 # Project Screenshot
 ![image](https://user-images.githubusercontent.com/74978503/227969059-055a4310-de04-4d3b-a7c1-6f9b20ae39a8.png)
 
